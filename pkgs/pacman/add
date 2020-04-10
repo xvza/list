@@ -12,6 +12,7 @@ gstreamer-vaapi
 libva-intel-driver
 libxss
 light
+lightdm-gtk-greeter
 ninja
 pacman-contrib
 pacutils

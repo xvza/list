@@ -17,6 +17,7 @@ ninja-build
 polybar
 rpmreaper
 screenkey
+slick-greeter
 torbrowser-launcher
 unar
 xorg-x11-server-Xorg

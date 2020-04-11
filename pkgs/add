@@ -34,5 +34,5 @@ unzip
 vorbis-tools
 wget
 xsel
-xdg-user-dirs-gtk
+xdg-user-dirs
 xdg-utils

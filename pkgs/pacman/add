@@ -17,6 +17,7 @@ ninja
 pacman-contrib
 pacutils
 pcurses
+spice-vdagent
 torbrowser-launcher
 unrar
 xorg-xrdb

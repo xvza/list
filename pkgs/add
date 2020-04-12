@@ -36,3 +36,4 @@ wget
 xsel
 xdg-user-dirs
 xdg-utils
+xdotool

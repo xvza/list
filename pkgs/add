@@ -33,8 +33,9 @@ ufw
 unzip
 vorbis-tools
 wget
-xsel
+xcursorgen
 xdg-user-dirs
 xdg-utils
 xdotool
+xsel
 zenity

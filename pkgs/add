@@ -33,7 +33,6 @@ ufw
 unzip
 vorbis-tools
 wget
-xcursorgen
 xdg-user-dirs
 xdg-utils
 xdotool

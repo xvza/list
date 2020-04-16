@@ -14,6 +14,7 @@ libva-intel-driver
 libxss
 light
 lightdm-gtk-greeter
+mesa
 otf-fira-mono
 pacman-contrib
 pacutils

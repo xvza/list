@@ -13,6 +13,7 @@ gstreamer1-plugins-good-gtk
 gstreamer1-plugins-ugly-free
 libva-intel-driver
 light
+mesa-dri-drivers
 mozilla-fira-mono-fonts
 newsbeuter
 polybar

@@ -11,6 +11,7 @@ gstreamer1-libav
 gstreamer1-plugins-bad-free
 gstreamer1-plugins-good-gtk
 gstreamer1-plugins-ugly-free
+ImageMagick
 libva-intel-driver
 light
 mesa-dri-drivers

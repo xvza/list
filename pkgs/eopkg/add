@@ -2,6 +2,7 @@ cava
 dos2unix
 feedreader
 font-firacode-otf
+imagemagick
 lemonbar
 libva-intel-driver
 mesalib

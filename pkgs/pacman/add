@@ -10,6 +10,7 @@ gnome-notes
 gst-libav
 gst-plugins-bad
 gstreamer-vaapi
+imagemagick
 libva-intel-driver
 libxss
 light

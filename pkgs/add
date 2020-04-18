@@ -1,4 +1,5 @@
 alsa-utils
+aria2
 colordiff
 curl
 ffmpeg
@@ -27,7 +28,6 @@ scrot
 sxhkd
 tlp-rdw
 translate-shell
-transmission-cli
 ufw
 unzip
 vorbis-tools

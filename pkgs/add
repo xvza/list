@@ -2,6 +2,7 @@ alsa-utils
 aria2
 colordiff
 curl
+dos2unix
 ffmpeg
 gcc
 git

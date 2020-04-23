@@ -5,7 +5,6 @@ gcolor3
 gnome-feeds
 gnome-software
 gpaste-ui
-gnome-terminal-nautilus
 gstreamer1-libav
 gstreamer1-plugins-bad-free
 gstreamer1-plugins-good-gtk
@@ -21,6 +20,7 @@ rpmreaper
 slick-greeter
 spice-webdavd
 unar
-xcursorgen
+xbacklight
+xorg-x11-apps
 xorg-x11-server-Xorg
 xorg-x11-utils

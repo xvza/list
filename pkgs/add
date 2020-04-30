@@ -38,6 +38,7 @@ xdotool
 xsel
 zenity
 dconf-editor
+celluloid
 epiphany
 evince
 file-roller

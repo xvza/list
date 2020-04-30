@@ -9,7 +9,6 @@ gnome-software
 gpaste
 gst-libav
 gst-plugins-bad
-gstreamer-vaapi
 imagemagick
 libva-intel-driver
 libxss

@@ -6,6 +6,7 @@ exa
 ffmpeg
 gcc
 git
+gstreamer-vaapi
 gvfs
 htop
 jq

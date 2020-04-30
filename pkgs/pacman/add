@@ -1,5 +1,6 @@
 base-devel
 cava
+celluloid
 chafa
 feedreader
 gcolor3

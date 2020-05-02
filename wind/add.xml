@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
   <packages>
-    <package id="atom" />
     <package id="ccleaner" />
     <package id="choco-cleaner" />
     <package id="etcher" />
-    <package id="github-desktop" />
     <package id="peazip" />
     <package id="quicklook" />
     <package id="thunderbird" />
-    <package id="tor-browser" />
     <package id="virtualbox" />
     <package id="waterfox" />
     <package id="winaero-tweaker" />

@@ -7,5 +7,4 @@
     <package id="peazip" />
     <package id="quicklook" />
     <package id="thunderbird" />
-    <package id="virtualbox" />
   </packages>

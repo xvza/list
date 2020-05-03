@@ -1,8 +1,10 @@
 cava
+exa
 feedreader
 font-firacode-otf
 font-symbola-ttf
 gstreamer1.0-libav
+gstreamer-vaapi
 imagemagick
 lemonbar
 libva-intel-driver

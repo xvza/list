@@ -2,13 +2,16 @@ base-devel
 cava
 celluloid
 chafa
+exa
 feedreader
+fragments
 gcolor3
 gnome-notes
 gnome-software
 gpaste
 gst-libav
 gst-plugins-bad
+gstreamer-vaapi
 imagemagick
 libva-intel-driver
 libxss

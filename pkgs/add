@@ -2,11 +2,9 @@ alsa-utils
 aria2
 curl
 dos2unix
-exa
 ffmpeg
 gcc
 git
-gstreamer-vaapi
 gvfs
 htop
 jq
@@ -43,7 +41,6 @@ dconf-editor
 epiphany
 evince
 file-roller
-fragments
 geary
 gedit-plugins
 gnome-boxes

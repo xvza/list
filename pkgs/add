@@ -38,6 +38,7 @@ xdotool
 xsel
 zenity
 dconf-editor
+eog
 evince
 file-roller
 geary

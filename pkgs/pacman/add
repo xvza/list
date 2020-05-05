@@ -16,7 +16,6 @@ imagemagick
 libva-intel-driver
 libxss
 light
-lightdm-gtk-greeter
 mesa
 otf-fira-code
 otf-fira-mono

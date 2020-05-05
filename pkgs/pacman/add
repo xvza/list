@@ -1,5 +1,4 @@
 base-devel
-cava
 celluloid
 chafa
 epiphany
@@ -19,6 +18,7 @@ libxss
 light
 lightdm-gtk-greeter
 mesa
+otf-fira-code
 otf-fira-mono
 pacman-contrib
 pacutils

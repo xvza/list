@@ -1,13 +1,7 @@
 aptitude
-bijiben
-chafa
 dpkg
-epiphany-browser
-feedreader
 fonts-firacode
 fonts-symbola
-gnome-software
-gpaste
 gstreamer1.0-libav
 imagemagick
 lemonbar
@@ -15,7 +9,6 @@ libavcodec-extra
 mesa-utils
 pydf
 spice-webdavd
-synaptic
 unar
 xbacklight
 xinit

@@ -16,6 +16,7 @@ pacman-contrib
 pacutils
 pcurses
 pydf
+qgnomeplatform
 unrar
 xorg-server
 xorg-xinit

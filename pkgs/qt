@@ -4,7 +4,8 @@ calligra
 dolphin-plugins
 dragonplayer
 falkon
-filelight 
+filelight
+kate 
 kcolorchooser
 kcron
 kdialog
@@ -14,10 +15,10 @@ kmail
 knotes
 kolourpaint
 konsole
+kphotoalbum
 krename
 ksysguard
 ktorrent
-kwrite
 muon
 okular
 partitionmanager

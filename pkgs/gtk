@@ -1,10 +1,8 @@
 bijiben
-celluloid
 dconf-editor
 eog
 epiphany
 evince
-feedreader
 file-roller
 fragments
 gcolor3
@@ -18,10 +16,10 @@ gnome-font-viewer
 gnome-keyring
 gnome-screenshot
 gnome-software
+gnome-terminal
 gnome-user-docs
 gpaste
 gpaste-ui
 nautilus
 seahorse
 soundconverter
-tilix

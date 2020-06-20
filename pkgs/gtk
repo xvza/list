@@ -15,6 +15,7 @@ gnome-disk-utility
 gnome-feeds
 gnome-font-viewer
 gnome-keyring
+gnome-music
 gnome-screenshot
 gnome-software
 gnome-terminal
@@ -23,7 +24,6 @@ gnome-user-docs
 gpaste
 gpaste-ui
 hardinfo
-lollypop
 materia-gtk-theme
 nautilus
 seahorse

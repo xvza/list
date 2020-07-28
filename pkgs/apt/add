@@ -1,11 +1,15 @@
 aptitude
 fonts-firacode
 fonts-symbola
+gnome-shell-extension-remove-dropdown-arrows
 gstreamer1.0-libav
+gstreamer1.0-vaapi
+hardinfo
 imagemagick
 lemonbar
 libavcodec-extra
 mesa-utils
+numix-icon-theme-circle
 pydf
 spice-webdavd
 unar

@@ -5,6 +5,7 @@ gcolor3
 gst-libav
 gst-plugins-bad
 gstreamer-vaapi
+hardinfo
 imagemagick
 libva-intel-driver
 libxss
